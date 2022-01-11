@@ -1,0 +1,5 @@
+loguru
+hydra-core
+pyyaml
+boto3
+requests
